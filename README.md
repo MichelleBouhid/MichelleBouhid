@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MichelleBouhid
-- 👀 I’m interested in Finance, Bigdata, DataAnalysis
+- 👀 I’m interested in Finance, BigData, DataAnalysis
 - 🌱 I’m currently learning everything, it´s a new world for me
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
