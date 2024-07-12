@@ -21,6 +21,9 @@ A project aimed at comparing the performance of Bitcoin (BTC) with various Excha
 ### MLE in Finance
 Exploring the use of Maximum Likelihood Estimation (MLE) in financial contexts, particularly within my master's studies.
 
+### Statistical Analysis Course Projects
+I am currently taking a statistical analysis course, which involves completing 10 projects. Each project will have versions implemented in both Python and R. These projects aim to enhance my skills in statistical analysis and data science.
+
 ## How to Reach Me
 
 - **Email:** [michelle.bouhid@gmail.com](mailto:michelle.bouhid@gmail.com)
@@ -38,6 +41,8 @@ Exploring the use of Maximum Likelihood Estimation (MLE) in financial contexts, 
 
 ![Michelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichelleBouhid&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichelleBouhid&layout=compact&theme=radical)
+
 ## Projects Showcase
 
 ### [Bitcoin vs ETFs Comparison](https://github.com/MichelleBouhid/bitcoin-vs-etfs)
@@ -45,6 +50,10 @@ An in-depth comparison of Bitcoin and ETFs' performance over time.
 
 ### [Economic Data Analysis](https://github.com/MichelleBouhid/economic-data-analysis)
 Analyzing economic data to uncover trends and insights.
+
+### [Statistical Analysis Course Projects](https://github.com/MichelleBouhid/statistical-analysis-course)
+Projects completed as part of a statistical analysis course, with implementations in both Python and R.
+
 
 ---
 
