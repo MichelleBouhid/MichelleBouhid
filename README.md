@@ -51,7 +51,7 @@ An in-depth comparison of Bitcoin and ETFs' performance over time.
 ### [Economic Data Analysis](https://github.com/MichelleBouhid/economic-data-analysis)
 Analyzing economic data to uncover trends and insights.
 
-### [Statistical Analysis Course Projects](https://github.com/MichelleBouhid/statistical-analysis-course)
+### [Statistical Analysis Course Projects](https://github.com/MichelleBouhid/StatisticalAnalysisCourse.git)
 Projects completed as part of a statistical analysis course, with implementations in both Python and R.
 
 
