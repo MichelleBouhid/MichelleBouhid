@@ -9,6 +9,7 @@ I am a finance professional based in Brazil, with a strong interest in integrati
 - **Finance and Economics:** I work in finance and am passionate about understanding economic trends and financial markets.
 - **Data Science and Technology:** I am learning Python and R to apply data analysis in financial markets.
 - **Statistics and Mathematics:** I have an intermediate knowledge of these subjects and am keen on improving my skills.
+- **Econometrics:** Currently studying econometrics, with a focus on Ordinary Least Squares (OLS) methods to deepen my understanding of statistical methods in economics and finance.
 
 ## Current Projects
 
@@ -18,8 +19,8 @@ A project aimed at comparing the performance of Bitcoin (BTC) with various Excha
 - Calculating key financial metrics
 - Visualizing performance over time
 
-### MLE in Finance
-Exploring the use of Maximum Likelihood Estimation (MLE) in financial contexts, particularly within my master's studies.
+### Econometrics Studies
+Currently focused on studying econometrics, particularly the Ordinary Least Squares (OLS) method. This includes understanding and applying OLS in financial modeling and data analysis to draw meaningful insights from economic data.
 
 ### Statistical Analysis Course Projects
 I am currently taking a statistical analysis course, which involves completing 10 projects. Each project will have versions implemented in both Python and R. These projects aim to enhance my skills in statistical analysis and data science.
@@ -36,6 +37,7 @@ I am currently taking a statistical analysis course, which involves completing 1
 - **Tools and Frameworks:** pandas, numpy, matplotlib, seaborn
 - **Financial Analysis:** Time series analysis, portfolio management, risk assessment
 - **Statistics and Mathematics:** Hypothesis testing, regression analysis, optimization
+- **Econometrics:** Regression analysis, time series econometrics, panel data analysis, Ordinary Least Squares (OLS)
 
 ## GitHub Stats
 
