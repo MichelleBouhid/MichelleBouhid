@@ -30,6 +30,8 @@ I am currently taking a statistical analysis course, which involves completing 1
 - **Email:** [michelle.bouhid@gmail.com](mailto:michelle.bouhid@gmail.com)
 - **LinkedIn:** [Michelle Bouhid](https://www.linkedin.com/in/michelle-bouhid-880001156/)
 - **GitHub:** [MichelleBouhid](https://github.com/MichelleBouhid)
+- <a href="https://www.linkedin.com/in/michelle-bouhid-880001156/" target="_blank">LinkedIn</a>
+
 
 ## Skills
 
