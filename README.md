@@ -1,6 +1,7 @@
 # Hello, I'm Michelle Bouhid 👋   
 
-### Page Under Construction 🚧
+### Page Under Construction 🚧 
+This section is currently under development. Stay tuned for updates! New content and improvements are on the way.
 
 ## About Me
 
