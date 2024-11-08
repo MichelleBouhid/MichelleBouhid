@@ -47,7 +47,7 @@ I am currently taking a statistical analysis course, which involves completing 1
 
 ## Projects Showcase
 
-### [IAFinancas](https://github.com/MichelleBouhid/IAFinacas.git)
+### [IAFinancas](https://github.com/MichelleBouhid/IAFinancas.git)
 
 ### [Statistical Analysis Course Projects](https://github.com/MichelleBouhid/StatisticalAnalysisCourse.git)
 Projects completed as part of a statistical analysis course, with implementations in both Python and R.
