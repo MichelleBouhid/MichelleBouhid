@@ -50,7 +50,7 @@ I am currently taking a statistical analysis course, which involves completing 1
 ### [Bitcoin vs ETFs Comparison](https://github.com/MichelleBouhid/bitcoin-vs-etfs)
 An in-depth comparison of Bitcoin and ETFs' performance over time.
 
-### [Economic Data Analysis](https://github.com/MichelleBouhid/economic-data-analysis)
+### [Economic Data Analysis](https://github.com/MichelleBouhid/economic-data-analysis.git)
 Analyzing economic data to uncover trends and insights.
 
 ### [Statistical Analysis Course Projects](https://github.com/MichelleBouhid/StatisticalAnalysisCourse.git)
