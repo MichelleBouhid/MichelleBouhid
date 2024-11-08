@@ -51,7 +51,7 @@ I am currently taking a statistical analysis course, which involves completing 1
 ## Projects Showcase
 
 ### [IAFinancas](https://github.com/MichelleBouhid/IAFinancas.git)
-Projects completed as part of the Blockchain Engineer course at the Data Science Academy. All code includes notes and annotations made during the lessons.
+Projects completed as part of the Blockchain Engineer course at the Data Science Academy. All code includes notes and comments made during the lessons.
 
 ### [Statistical Analysis Course Projects](https://github.com/MichelleBouhid/StatisticalAnalysisCourse.git)
 Projects completed as part of a statistical analysis course, with implementations in both Python and R.
