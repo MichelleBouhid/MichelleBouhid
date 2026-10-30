@@ -29,11 +29,12 @@ Twelve years in financial analysis, including five years of fund research and se
 
 ## Skills
 
-Python (pandas, NumPy), Solidity (basic). Portuguese (native), English (advanced), French (learning).
+Python (intermediate), Solidity (basic). Portuguese (native), English (advanced), French (learning).
 
 ## Contact
 
-michelle.bouhid@gmail.com
+michelle.bouhid@gmail.com 
+
 [LinkedIn](https://www.linkedin.com/in/michelle-bouhid-880001156/)
 ---
 
