@@ -26,6 +26,7 @@ Twelve years in financial analysis, including five years of fund research and se
 - [MasterEconomicsFinanceFGV](https://github.com/MichelleBouhid/MasterEconomicsFinanceFGV): coursework from the master's programme
 - [IAFinancas](https://github.com/MichelleBouhid/IAFinancas): projects from the DSA Blockchain Engineer course
 - [StatisticalAnalysisCourse](https://github.com/MichelleBouhid/StatisticalAnalysisCourse): earlier course projects in Python and R
+- [btc_vs_etfs_2022](https://github.com/MichelleBouhid/btc_vs_etfs_2022): 2022 comparison of Bitcoin against equity, gold, bond and energy ETFs in Python
 
 ## Skills
 
