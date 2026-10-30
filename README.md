@@ -1,62 +1,40 @@
-# Hello, I'm Michelle Bouhid 👋   
+# Michelle Bouhid
 
-### Page Under Construction 🚧 
-This section is currently under development. Stay tuned for updates! New content and improvements are on the way.
+### Page under construction 🚧
 
-## About Me
+Finance professional transitioning to crypto markets. MSc in Economics and Corporate Finance at FGV-EPGE (Rio de Janeiro), with a dissertation on yield tokenization and the Pendle protocol. CFA Level I candidate.
 
-I am a finance professional based in Brazil, with a strong interest in integrating finance, economics, and technology. I am currently pursuing a master's degree in Economics and Finance at Fundação Getulio Vargas (FGV).
+## Research
 
-## Interests
+**[Yield Tokenization and the Emergence of Crypto-Native Fixed Income Markets: Evidence from Pendle](https://github.com/MichelleBouhid/msc_dissertation_fgv_pendle_yield_tokenization)**
+MSc dissertation, FGV-EPGE, Digital Finance track. Working draft. Reads DeFi fixed income through two lenses, finance and technology: PT/YT mechanics, implied rates and term structure, Pendle's AMM design, and the risk and regulatory questions raised by on-chain fixed income.
 
-- **Finance and Economics:** I work in finance and am passionate about understanding economic trends and financial markets.
-- **Data Science and Technology:** I am learning Python and R to apply data analysis in financial markets.
-- **Statistics and Mathematics:** I have an intermediate knowledge of these subjects and am keen on improving my skills.
-- **Econometrics:** Currently studying econometrics, with a focus on Ordinary Least Squares (OLS) methods to deepen my understanding of statistical methods in economics and finance.
+## Background
 
-## Current Projects
+Twelve years in financial analysis, including five years of fund research and selection at a state pension fund. Earlier career in banking, industry and my own business. Skin in the game in crypto assets since 2021.
 
-### Bitcoin vs ETFs Comparison Project
-A project aimed at comparing the performance of Bitcoin (BTC) with various Exchange-Traded Funds (ETFs). This involves:
-- Historical price analysis
-- Calculating key financial metrics
-- Visualizing performance over time
+## Education and training
 
-### Econometrics Studies
-Currently focused on studying econometrics, particularly the Ordinary Least Squares (OLS) method. This includes understanding and applying OLS in financial modeling and data analysis to draw meaningful insights from economic data.
+- MSc in Economics and Corporate Finance, FGV-EPGE
+- Decentralized Finance (DeFi) Specialization, Duke University (Prof. Campbell Harvey), 2022
+- Blockchain Engineer and Data Analyst programmes, Data Science Academy (DSA)
+- Bachelor's degree in Business Administration
 
-### Statistical Analysis Course Projects
-I am currently taking a statistical analysis course, which involves completing 10 projects. Each project will have versions implemented in both Python and R. These projects aim to enhance my skills in statistical analysis and data science.
+## Repositories
 
-## How to Reach Me
-
-- **Email:** [michelle.bouhid@gmail.com](mailto:michelle.bouhid@gmail.com)
-- **LinkedIn:** [Michelle Bouhid](https://www.linkedin.com/in/michelle-bouhid-880001156/)
-- **GitHub:** [MichelleBouhid](https://github.com/MichelleBouhid)
+- [msc_dissertation_fgv_pendle_yield_tokenization](https://github.com/MichelleBouhid/msc_dissertation_fgv_pendle_yield_tokenization): dissertation draft
+- [MasterEconomicsFinanceFGV](https://github.com/MichelleBouhid/MasterEconomicsFinanceFGV): coursework from the master's programme
+- [IAFinancas](https://github.com/MichelleBouhid/IAFinancas): projects from the DSA Blockchain Engineer course
+- [StatisticalAnalysisCourse](https://github.com/MichelleBouhid/StatisticalAnalysisCourse): earlier course projects in Python and R
 
 ## Skills
 
-- **Programming Languages:** Python, R
-- **Tools and Frameworks:** pandas, numpy, matplotlib, seaborn
-- **Financial Analysis:** Time series analysis, portfolio management, risk assessment
-- **Statistics and Mathematics:** Hypothesis testing, regression analysis, optimization
-- **Econometrics:** Regression analysis, time series econometrics, panel data analysis, Ordinary Least Squares (OLS)
+Python (pandas, NumPy), Solidity (basic). Portuguese (native), English (advanced), French (learning).
 
-## GitHub Stats
+## Contact
 
-![Michelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichelleBouhid&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichelleBouhid&layout=compact&theme=radical)
-
-## Projects Showcase
-
-### [IAFinancas](https://github.com/MichelleBouhid/IAFinancas.git)
-Projects completed as part of the Blockchain Engineer course at the Data Science Academy. All code includes notes and comments made during the lessons.
-
-### [Statistical Analysis Course Projects](https://github.com/MichelleBouhid/StatisticalAnalysisCourse.git)
-Projects completed as part of a statistical analysis course, with implementations in both Python and R.
-
-
+michelle.bouhid@gmail.com
+[LinkedIn](https://www.linkedin.com/in/michelle-bouhid-880001156/)
 ---
 
 Feel free to connect with me on LinkedIn or explore my projects here on GitHub. I am always open to collaborating on interesting projects and discussing ideas related to finance, economics, and data science.
