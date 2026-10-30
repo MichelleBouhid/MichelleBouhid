@@ -2,7 +2,7 @@
 
 ### Page under construction 🚧
 
-I am a finance professional based in Brazil, with a long-standing interest in bringing finance, economics and technology together. That interest is now taking me into crypto markets. I am completing an MSc in Economics and Corporate Finance at FGV-EPGE (Rio de Janeiro), with a dissertation on yield tokenization and the Pendle protocol.
+I am a finance professional based in Brazil, with a long-standing interest in bringing finance, economics and technology together. Since 2021 that interest has been focused on crypto markets, as a researcher and as an investor. I am completing an MSc in Economics and Corporate Finance at FGV-EPGE (Rio de Janeiro), with a dissertation on yield tokenization and the Pendle protocol.
 
 ## Research
 
