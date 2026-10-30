@@ -2,7 +2,7 @@
 
 ### Page under construction 🚧
 
-Finance professional transitioning to crypto markets. MSc in Economics and Corporate Finance at FGV-EPGE (Rio de Janeiro), with a dissertation on yield tokenization and the Pendle protocol. CFA Level I candidate.
+I am a finance professional based in Brazil, with a long-standing interest in bringing finance, economics and technology together. That interest is now taking me into crypto markets. I am completing an MSc in Economics and Corporate Finance at FGV-EPGE (Rio de Janeiro), with a dissertation on yield tokenization and the Pendle protocol.
 
 ## Research
 
@@ -33,7 +33,7 @@ Python (intermediate), Solidity (basic). Portuguese (native), English (advanced)
 
 ## Contact
 
-michelle.bouhid@gmail.com 
+[michelle.bouhid@gmail.com](mailto:michelle.bouhid@gmail.com)
 
 [LinkedIn](https://www.linkedin.com/in/michelle-bouhid-880001156/)
 ---
