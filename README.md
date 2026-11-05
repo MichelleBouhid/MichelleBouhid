@@ -22,8 +22,8 @@ Twelve years in financial analysis, including five years of fund research and se
 ## Repositories
 
 - [msc_dissertation_fgv_pendle_yield_tokenization](https://github.com/MichelleBouhid/msc_dissertation_fgv_pendle_yield_tokenization): dissertation draft
-- [MasterEconomicsFinanceFGV](https://github.com/MichelleBouhid/MasterEconomicsFinanceFGV): coursework from the master's programme
 - [IAFinancas](https://github.com/MichelleBouhid/IAFinancas): projects from the DSA Blockchain Engineer course
+- [MasterEconomicsFinanceFGV](https://github.com/MichelleBouhid/MasterEconomicsFinanceFGV): coursework from the master's programme
 - [StatisticalAnalysisCourse](https://github.com/MichelleBouhid/StatisticalAnalysisCourse): earlier course projects in Python and R
 - [btc_vs_etfs_2023](https://github.com/MichelleBouhid/btc_vs_etfs_2022): 2023 comparison of Bitcoin against equity, gold, bond and energy ETFs in Python
 - [SQLClassesAndProjects](https://github.com/MichelleBouhid/SQLClassesAndProjects): SQL course notes and exercises
